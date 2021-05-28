@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+main {
+
+    padding: 50px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+body{
+    background-color: white;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: rgb(235, 102, 146);
+}
+#product{
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+label {
+    color: rgb(235, 102, 146);
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+span{
+    font-weight: 700;
+}
+
+h2{
+    color: rgb(235, 102, 146);
+    text-align: center;
+    margin-top: 10px;
+}
+#name-label{
+    padding-top: 0px;
+}
+#field{
+    margin-bottom: 0px;
+}
+h3 {
+    color: rgb(235, 102, 146);
+}
+form {
+    padding-top: 50px;
+}
+#description {
+    font-size: 25px;
+}
+
+input, textarea {padding: 5px;
+font-size: 14px;
+border: 1px solid ;}
+.name-place, 
+.gender-place, 
+.email-place,
+.phone-place,
+.social-place,
+.rate-place,
+.product-place {margin-bottom: 40px;}
+.comment-place {margin-top: 20px;}
+.thank {font-size: 25px;}
+
+#submit {font-size: 18px;
+    font-weight: 500px;
+padding: 10px;
+cursor: pointer;
+color: rgb(12, 12, 12);
+border: rgb(201, 180, 187);
+border-radius: 3px;}
