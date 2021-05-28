@@ -47,9 +47,10 @@ footer{
 /*a{
    /* padding-right: 15px;
 }*/
-@media (max-width:1300px) {
+/*@media (max-width:1300px) {
     .hamburger{
-        display: block;}
+        display: block;
+    font-size: 500px;}
         .bar{
             display: none;
             font-size: 25px;
@@ -63,8 +64,8 @@ footer{
           }
           .hamburger a:hover{
               cursor: pointer;
-          }
-    }
+          }*/
+    
     
 
 @media (max-width:1000px) {
@@ -73,6 +74,7 @@ footer{
         .bar{
             display: none;
         }
+
     }
     
 

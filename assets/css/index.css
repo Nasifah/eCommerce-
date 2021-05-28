@@ -117,3 +117,16 @@
     color: var(--primaryColor);
     text-align: center;
   }
+  @media (max-width:720px) {
+    .hamburger{display: block;
+    margin-top: 10px;}
+    .bar{margin-top: 10px;
+        display: none;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .banner-title{
+      padding: 10px;
+    }
+}
